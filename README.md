@@ -1,7 +1,7 @@
-# Natural-Language-Processing
+# Natural Language Processing
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="500" alt="NLP Animation"/>
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="500" alt="NLP Text Animation"/>
 </div>
 
 Welcome to my collection of Natural Language Processing projects! This repository showcases various NLP techniques and applications using Python, spaCy, and NLTK.
